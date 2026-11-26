@@ -1,0 +1,10 @@
+node_modules/
+.env
+bitacora.db
+bitacora.db-journal
+bitacora.db-shm
+bitacora.db-wal
+dist/
+uploads/
+*.log
+
